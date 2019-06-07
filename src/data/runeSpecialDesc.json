@@ -1,0 +1,2078 @@
+[
+  {
+    "Id": 1000,
+    "Text": "[Bash] Dmg ＋%s%%"
+  },
+  {
+    "Id": 1001,
+    "Text": "Atk bonus of [Sword Mastery] ＋%s%%"
+  },
+  {
+    "Id": 1002,
+    "Text": "Atk punishment of [Taunt] Dealt by Enemy－%s%%"
+  },
+  {
+    "Id": 1003,
+    "Text": "Damage Dealt to Middle Size Monster by [Brandish Spear] ＋%s%%"
+  },
+  {
+    "Id": 1004,
+    "Text": "Swordsman's Atk bonus increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 1005,
+    "Text": "Get [Victorious Pursuit] Skill Level ＋%s. Spend 1 layer of \"Chase\" to deal (Skill Lv*150%% Dmg) (LUK affects Dmg). Gets 1 layer of \"Chase\" every 1min. Stacks up to 3 layers."
+  },
+  {
+    "Id": 1006,
+    "Text": "Ignores Def ＋%s%% when using sword class weapons"
+  },
+  {
+    "Id": 1007,
+    "Text": "Auto attacks of Swordsman have a %s%% chance to gain \"Chase\" status 1 sec quicker (3 sec when the attack is critical)."
+  },
+  {
+    "Id": 1008,
+    "Text": "SP Cost of [One-Hand Quicken]－%s%%"
+  },
+  {
+    "Id": 1009,
+    "Text": "Each 5 Agile provides Swordsman with %s Def"
+  },
+  {
+    "Id": 1010,
+    "Text": "Each level of Aura Blade grants %s more Atk"
+  },
+  {
+    "Id": 1011,
+    "Text": "Dmg dealt by [Cavalry Mastery] to Small Size Monster ＋([Cavalry Mastery] Lv*%s%%)"
+  },
+  {
+    "Id": 1012,
+    "Text": "SP Cost of [Head Crush]－%s%%"
+  },
+  {
+    "Id": 1013,
+    "Text": "SP Cost of [Heart of Steel]－%s%%"
+  },
+  {
+    "Id": 1014,
+    "Text": "Atk ＋%s when equipped with spear weapon"
+  },
+  {
+    "Id": 1015,
+    "Text": "Range of [Pierce] ＋%s"
+  },
+  {
+    "Id": 1016,
+    "Text": "Swordsman M.Def ＋%s"
+  },
+  {
+    "Id": 1017,
+    "Text": "[Counter Attack] could return %s%% M.Dmg"
+  },
+  {
+    "Id": 1018,
+    "Text": "[Counter Attack] could return %s%% Ranged Dmg"
+  },
+  {
+    "Id": 1019,
+    "Text": "Changes the effect of [Counter Attack] to Counter Attack Shield that deals (Base%s * 10%%Def) True Dmg when it takes melee auto attacks. The effect lasts ([Counter Attack]Lv * 2) sec. Each point increases base by 5."
+  },
+  {
+    "Id": 1020,
+    "Text": "Bleed applied by [Head Crush] reduces Healing received by －%s%%. Stacks up to 45%% (Natural recover and healing potion won’t be affected)"
+  },
+  {
+    "Id": 1021,
+    "Text": "Have [Charge Attack] Level ＋1. Charges to a ranged target and deals 200%% Dmg. Each 1 point increases charge range by ＋%sm and damage dealt by ＋%s%%"
+  },
+  {
+    "Id": 1022,
+    "Text": "Dmg punishment on equipment dealt by [Concentration]－%s%%"
+  },
+  {
+    "Id": 1023,
+    "Text": "Range of the skill [Taunt] ＋%sm"
+  },
+  {
+    "Id": 1024,
+    "Text": "Damage of [Joint Beat] ＋%s%%"
+  },
+  {
+    "Id": 1025,
+    "Text": "[Spear Boomerang] Skill Level ＋1. Casts the spear to deal %s%% Dmg to an enemy. Spear class weapons are required.. Each ＋%s%% Dmg increases skill range by ＋%sm"
+  },
+  {
+    "Id": 1026,
+    "Text": "[Spear Boomerang] has a 15% chance to slow the target by 20%%. Each 1 point increases slow rate by ＋%s%% and slow effects by ＋%s%%"
+  },
+  {
+    "Id": 1027,
+    "Text": "Flee punishment of [Frenzy Spear] by －%s%%"
+  },
+  {
+    "Id": 1028,
+    "Text": "Casting [Furious Rage] makes the user become immune to same-class control for 2 sec. Each point increases the duration by ＋%s sec"
+  },
+  {
+    "Id": 1029,
+    "Text": "Cooldown of [Frenzy Spear] －%s%%"
+  },
+  {
+    "Id": 1030,
+    "Text": "Has [Tension Relax] Skill Level ＋1. Eases intense muscles for a short time, increasing HP Regen by ＋100%% for 10 sec."
+  },
+  {
+    "Id": 1031,
+    "Text": "Skill range of [Spiral Pierce] ＋%sm"
+  },
+  {
+    "Id": 1032,
+    "Text": "Has [Furious Rage] Skill Level ＋1. Expels part control status instantly, including root/freeze/petrify/curse/sleep. CD: 40"
+  },
+  {
+    "Id": 1033,
+    "Text": "Lifts the block limit for [Endure] for (Endure Skill Lv * 0.5 (Adjusted Value))sec. Each point increases the adjusted value by ＋0.5"
+  },
+  {
+    "Id": 1034,
+    "Text": "SP Cost of [Lord's Aura]－%s%%"
+  },
+  {
+    "Id": 1301,
+    "Text": "使【狂击】使用技能的消耗-%s%%"
+  },
+  {
+    "Id": 1302,
+    "Text": "【冲锋攻击】冲锋距离越远，伤害越高，每米提升%s%%伤害。"
+  },
+  {
+    "Id": 1303,
+    "Text": "使【正义裁决】每5点体质额外增加%s点魔法攻击"
+  },
+  {
+    "Id": 1304,
+    "Text": "使【钢铁之心】冷却时间-%s%%"
+  },
+  {
+    "Id": 1401,
+    "Text": "Range of [Phantom Thrust] ＋ %s m"
+  },
+  {
+    "Id": 1402,
+    "Text": "[Dragon Breath] damage ＋ %s%%"
+  },
+  {
+    "Id": 1403,
+    "Text": "＋ %s%% chance of [Hundred Spears] triggering [Spiral Pierce]"
+  },
+  {
+    "Id": 1404,
+    "Text": "[Hundred Spears] damage ＋ %s%%"
+  },
+  {
+    "Id": 1405,
+    "Text": "Runestone duration ＋ %s%%"
+  },
+  {
+    "Id": 1406,
+    "Text": "[Enchant Blade] ＋ %s%% extra M.Atk"
+  },
+  {
+    "Id": 1407,
+    "Text": "[Sink or Swim] M.Atk reduction － %s%%. Increased M.Atk stays the same"
+  },
+  {
+    "Id": 1408,
+    "Text": "[Dragon’s Protection] fire Dmg Reduc.% ＋ %s%%"
+  },
+  {
+    "Id": 2000,
+    "Text": "Cast Delay of [Fire Bolt]－%s sec"
+  },
+  {
+    "Id": 2001,
+    "Text": "CT Variable of [Ring of Fire]－%s sec"
+  },
+  {
+    "Id": 2002,
+    "Text": "Fixed Cast Time of [Fire Bolt]－%s sec"
+  },
+  {
+    "Id": 2003,
+    "Text": "auto attacks have a 5%% chance to trigger Spell Crit, dealing ＋%s%% damage (Luck increases Crit Rate)"
+  },
+  {
+    "Id": 2004,
+    "Text": "When [Sight] is removed, Triggers same-level [Sightrasher]. Removal caused by casting [Sightrasher] initiative won’t trigger this effect."
+  },
+  {
+    "Id": 2005,
+    "Text": "[Fire Ball]’s M.Atk ＋%s%%, SP Cost ＋%s%%"
+  },
+  {
+    "Id": 2006,
+    "Text": "[Ring of Fire] Withstands ＋%s"
+  },
+  {
+    "Id": 2007,
+    "Text": "Cast Delay of [Cold Bolt]－%s sec"
+  },
+  {
+    "Id": 2008,
+    "Text": "Cast Delay of [Lord of Vermilion]－%s%%"
+  },
+  {
+    "Id": 2009,
+    "Text": "Has [Invisible Space] Skill Level ＋%s. Lifts the range limit for the next AOE skill, allowing it to reach far. CD:40S. Each point reduces skill CD by －%s sec"
+  },
+  {
+    "Id": 2010,
+    "Text": "[Fire Bolt] has a 8% chance to become high-energy, dealing ＋%s%% total damage"
+  },
+  {
+    "Id": 2011,
+    "Text": "[Sight] could stack up to %s layers when casted repeatedly"
+  },
+  {
+    "Id": 2012,
+    "Text": "M.Atk Bonus of [Alight] ＋%s%%"
+  },
+  {
+    "Id": 2013,
+    "Text": "Cast Delay of [Heaven's Drive]－%s%%"
+  },
+  {
+    "Id": 2014,
+    "Text": "Auto attacks dealt by Mages enjoy M.Atk Bonus ＋%s%%"
+  },
+  {
+    "Id": 2015,
+    "Text": "[Soul Strike] has a 8% chance to become high-energy, dealing ＋%s%% damage"
+  },
+  {
+    "Id": 2016,
+    "Text": "[Auto Holy Spirit] cast chance ＋%s%%"
+  },
+  {
+    "Id": 2017,
+    "Text": "Auto attacks of Mages have a %s%% chance to trigger same-level [Soul Strike]"
+  },
+  {
+    "Id": 2018,
+    "Text": "When the ice applied by [Frost Diver] and [Frost Nova] breaks, the frozen target suffers (M.Atk%s%% *[Frost Diver]/[Frost Nova]Skill Lv) water M.Dmg"
+  },
+  {
+    "Id": 2019,
+    "Text": "M.Dmg dealt by breaking ice ＋%s%%"
+  },
+  {
+    "Id": 2020,
+    "Text": "Cast Delay of [Storm Gust]－%s%%"
+  },
+  {
+    "Id": 2021,
+    "Text": "Splash Damage of [Element Diffusion] ＋%s%%"
+  },
+  {
+    "Id": 2022,
+    "Text": "Using Flame Heart allows auto attacks to trigger [Alight] as well"
+  },
+  {
+    "Id": 2023,
+    "Text": "Has [Meteor Storm] Skill Level ＋2"
+  },
+  {
+    "Id": 2024,
+    "Text": "When [Meteor Storm] hits, Summons 1 fire column to a random target, dealing %s%% M.Dmg to all units in the area."
+  },
+  {
+    "Id": 2025,
+    "Text": "Damage dealt by [Fire Pillar Attack] ＋%s%%"
+  },
+  {
+    "Id": 2026,
+    "Text": "When [Meteor Storm] hits, Summons 1 fire columns to 2 random targets, dealing %s%% M.Dmg to all units in the area."
+  },
+  {
+    "Id": 2027,
+    "Text": "Allows [Napalm Vulcan] to deal spell crit effect, Crit.Dmg ＋%s%%"
+  },
+  {
+    "Id": 2028,
+    "Text": "Has [Lightning Rod] Skill Level ＋%s. Marks the target to deal (M.Atk%s%% * (Target INT/10)) wind M.Dmg every 2 sec. Lasts 16 sec. Each point increases base M.Dmg by %s%%"
+  },
+  {
+    "Id": 2029,
+    "Text": "[Fire Bolt] [Cold Bolt] [Lightning Bolt] splashes to 3 targets, dealing splash damage equal to %s%%  skill damage. SP Cost ＋%s%%"
+  },
+  {
+    "Id": 2030,
+    "Text": "Splash Damage of Element Diffusion ＋%s%%"
+  },
+  {
+    "Id": 2031,
+    "Text": "Freezes all enemies within 2m when the target breaks the ice. Each 1 point expand the range by 1m"
+  },
+  {
+    "Id": 2032,
+    "Text": "[Cold Bolt] has a 8% chance to become high-energy, dealing ＋%s%% total damage"
+  },
+  {
+    "Id": 2033,
+    "Text": "Fixed Cast Time of [Cold Bolt]－%s sec"
+  },
+  {
+    "Id": 2034,
+    "Text": "Makes [Frost Diver] freeze the user so they cannot move or be damaged for %s sec"
+  },
+  {
+    "Id": 2035,
+    "Text": "Has [Invisible Space] Skill Level ＋%s. Lifts the range limit for the next AOE skill, allowing it to reach far. CD:40S. Each point reduces skill CD by －%s sec"
+  },
+  {
+    "Id": 2036,
+    "Text": "The caster recovers 1.5%% HP when [Ice Tomb] is on. Each point increases healing rate by ＋%s%%"
+  },
+  {
+    "Id": 2037,
+    "Text": "Skill level of [Gravitational Field] ＋2, caster constantly deals natural magic damage to all targets around, and reduces their moving speed and ASPD by 10%; the effect lasts 5 seconds. (Guidance skill, it will costs Blue Gemstone x1) for each point, natural M.Dmg ＋%s points, Moving speed and ASPD －%s%%; the effect lasts ＋%s seconds"
+  },
+  {
+    "Id": 2038,
+    "Text": "Damage of [Fire Bolt], [Cold Bolt] and [Lightning Bolt] increases by %s%%."
+  },
+  {
+    "Id": 2039,
+    "Text": "Skill level of [Gravitational Field] ＋1, caster constantly deals natural M.Dmg to all targets around, and reduces their moving speed and ASPD by 10%; the effect lasts 5 seconds. (Guidance skill, it will costs Blue Gemstone x1) For each point built, natural M.Dmg ＋%s points, moving speed & ASPD －%s%%; the effect lasts ＋%s seconds"
+  },
+  {
+    "Id": 2040,
+    "Text": "Has [Meteor Storm] Skill Level ＋1"
+  },
+  {
+    "Id": 2301,
+    "Text": "泥潭沼泽命中的敌人受到水属性伤害增加%s%%"
+  },
+  {
+    "Id": 2302,
+    "Text": "【魔力增幅】的持续时间＋%s秒"
+  },
+  {
+    "Id": 2303,
+    "Text": "【念力连击】伤害增加%s%%"
+  },
+  {
+    "Id": 2401,
+    "Text": "[Tetra Vortex] damage ＋ %s%%"
+  },
+  {
+    "Id": 2402,
+    "Text": "Damage dealt by each bounce of [Chain Lightning] ＋%s%%"
+  },
+  {
+    "Id": 2403,
+    "Text": "Targets hit by [Chain Lightning] has a %s%% chance to be stunned for 1s"
+  },
+  {
+    "Id": 2404,
+    "Text": "[Soul Expansion] damage ＋%s%%"
+  },
+  {
+    "Id": 2405,
+    "Text": "Targets inside [White Imprison] loses %s%% of Max HP every second"
+  },
+  {
+    "Id": 2406,
+    "Text": "During [Recognized Spell] effect SP Cost － %s%% "
+  },
+  {
+    "Id": 2407,
+    "Text": "[HP Absorb]’s percentage of target’s HP absorbed ＋%s%%"
+  },
+  {
+    "Id": 2408,
+    "Text": "[Status Vulnerability]’s effect ＋%s%%. Auto Attack has a %s%% chance to inflict Burn, Freezing, Stun or Bleeding on the enemy"
+  },
+  {
+    "Id": 3000,
+    "Text": "[Ambush] Dmg ＋%s%% in Hiding Status"
+  },
+  {
+    "Id": 3001,
+    "Text": "[Double Attack] Dmg ＋%s%%"
+  },
+  {
+    "Id": 3002,
+    "Text": "Deals ＋%s%% more damage to stunned targets"
+  },
+  {
+    "Id": 3003,
+    "Text": "[Strong Blade Attack] has a ＋%s%% chance to deal ＋%s%% Crit.Dmg to poisoned targets"
+  },
+  {
+    "Id": 3004,
+    "Text": "[Strong Blade Attack] CD－%s sec"
+  },
+  {
+    "Id": 3005,
+    "Text": "Poison Attacks to Other Defenses’ Restrain Factor ＋%s%%"
+  },
+  {
+    "Id": 3006,
+    "Text": "When poisoned, [Venom Knife] Dmg ＋%s%%"
+  },
+  {
+    "Id": 3007,
+    "Text": "Min HP Lost Percentage Dealt by Poison－%s%%"
+  },
+  {
+    "Id": 3008,
+    "Text": "When [Twin Blade Penetration] is triggered, damage dealt by auto attacks ＋%s%%"
+  },
+  {
+    "Id": 3009,
+    "Text": "[Back Sliding] increases Move Spd ＋%s%% for %s sec"
+  },
+  {
+    "Id": 3010,
+    "Text": "[Back Sliding] increases Flee ＋%s for %s sec"
+  },
+  {
+    "Id": 3011,
+    "Text": "Poison dealt by [Venom Dart] has a %s%% to make healing skills and recovery items invalid"
+  },
+  {
+    "Id": 3012,
+    "Text": "[Venom Dart] Dmg ＋%s%%"
+  },
+  {
+    "Id": 3013,
+    "Text": "[Sonic Blow] Hit ＋%s%%"
+  },
+  {
+    "Id": 3014,
+    "Text": "Cast Delay of [Sonic Blow]－%s sec"
+  },
+  {
+    "Id": 3015,
+    "Text": "[Virus Diffusion] Dmg ＋%s%%"
+  },
+  {
+    "Id": 3016,
+    "Text": "[Grimtooth] has a %s%% to deal critical damage, Dmg ＋%s%%"
+  },
+  {
+    "Id": 3017,
+    "Text": "Bonus Atk provided by [Enhanced Enchant Poison] ＋%s%%"
+  },
+  {
+    "Id": 3018,
+    "Text": "[Grimtooth] Dmg ＋%s%%"
+  },
+  {
+    "Id": 3019,
+    "Text": "Bonus Atk provided by [Katar Mastery] ＋%s%%"
+  },
+  {
+    "Id": 3020,
+    "Text": "Get the skill [Poison Cast]: Casts a bottle to poison to the target, reducing the target and its adjacent unit’s max HP by －%s%% and increasing damage dealt by poison skills by ＋%s%%"
+  },
+  {
+    "Id": 3021,
+    "Text": "[Poison Cast] reduces Max HP－%s%% and increases damage dealt by poison skills by ＋%s%%"
+  },
+  {
+    "Id": 3022,
+    "Text": "[Soul Breaker] Max and Min Random Damage ＋%s%%"
+  },
+  {
+    "Id": 3023,
+    "Text": "Cast Delay of [Soul Breaker]－%s sec"
+  },
+  {
+    "Id": 3024,
+    "Text": "Damage dealt by [Soul Breaker] ＋%s for each INT"
+  },
+  {
+    "Id": 3025,
+    "Text": "Cast Delay of [Slash]－%s sec"
+  },
+  {
+    "Id": 3026,
+    "Text": "[Enchant Deadly Poison] ＋%s%%Atk but costs 1 more bottle of poison"
+  },
+  {
+    "Id": 3027,
+    "Text": "Cast Delay of [Meteor Assault]－%s sec"
+  },
+  {
+    "Id": 3028,
+    "Text": "[Meteor Assault] has a 20%% chance to deal ＋%s%% Crit.Dmg"
+  },
+  {
+    "Id": 3301,
+    "Text": "使【音速投掷】＋【十字斩】忽视目标%s%%物理防御"
+  },
+  {
+    "Id": 3302,
+    "Text": "在隐匿状态下，提升自身%s%%魔法防御"
+  },
+  {
+    "Id": 3303,
+    "Text": "使【刺杀光环】同时也使全队暴击防护＋%s"
+  },
+  {
+    "Id": 3304,
+    "Text": "Enhanced hiding time after hiding state removed ＋%s seconds"
+  },
+  {
+    "Id": 3401,
+    "Text": "[Rolling Cutter]’s damage is also boosted by Rotation Counter. Each counter ＋ %s%% final damage"
+  },
+  {
+    "Id": 3402,
+    "Text": "Each Rotation Counter increases [Cross Ripper Slasher]’s final damage by %s%%"
+  },
+  {
+    "Id": 3403,
+    "Text": "Triggered [Weapon Blocking] has a %s%% chance to counter the attacker with [Cross Impact] Lv.5"
+  },
+  {
+    "Id": 3404,
+    "Text": "Gain %s extra Flee and Crit. Res when using [Hallucination Walk]"
+  },
+  {
+    "Id": 3405,
+    "Text": "Gain %s extra Magic Reduc. when using [Hallucination Walk]"
+  },
+  {
+    "Id": 3406,
+    "Text": "Duration of New Poison ＋ %s sec"
+  },
+  {
+    "Id": 3407,
+    "Text": "Target affected by New Poison receives - %s%% healing. This effect stacks with New Poison"
+  },
+  {
+    "Id": 3408,
+    "Text": "[Dark Illusion] cooldown - %s sec"
+  },
+  {
+    "Id": 4000,
+    "Text": "[Arrow Shower] Dmg ＋%s%%"
+  },
+  {
+    "Id": 4001,
+    "Text": "[Arrow Shower] AOE targets ＋%s more units"
+  },
+  {
+    "Id": 4002,
+    "Text": "Receive [Fire Arrow Shower]: when arrows have a fire attribute and release attacks, the target will burn in fire; the burning effect can stack up 4 times."
+  },
+  {
+    "Id": 4003,
+    "Text": "Receive [Fire Explosion]: when arrows have a fire attribute and release attacks, with a %s%% chance to trigger %s%% Crit.Dmg"
+  },
+  {
+    "Id": 4004,
+    "Text": "[Elemental Arrow] Increases %s Atk per level"
+  },
+  {
+    "Id": 4005,
+    "Text": "Deals ＋%s%% damage to rooted units"
+  },
+  {
+    "Id": 4006,
+    "Text": "[Arrow Repel] deals ＋%s%% damage to rooted units"
+  },
+  {
+    "Id": 4007,
+    "Text": "Damage of [Arrow Repel] ＋%s%%"
+  },
+  {
+    "Id": 4008,
+    "Text": "Has a ＋%s%% chance to trigger [Blitz Beat]"
+  },
+  {
+    "Id": 4009,
+    "Text": "Damage of [Beastmastery] ＋%s%%"
+  },
+  {
+    "Id": 4010,
+    "Text": "Damage dealt by pets enjoy bonus provided by players’ Refined Atk"
+  },
+  {
+    "Id": 4011,
+    "Text": "For each ＋%s weapon refine level, [Blitz Beat] deals ＋%s%% more damage"
+  },
+  {
+    "Id": 4012,
+    "Text": "Has a ＋%s%% chance to double damage dealt by [Blitz Beat]"
+  },
+  {
+    "Id": 4013,
+    "Text": "Damage of [Splitting Arrows] ＋%s%%"
+  },
+  {
+    "Id": 4014,
+    "Text": "SP Cost of [Splitting Arrows]－%s"
+  },
+  {
+    "Id": 4015,
+    "Text": "[Splitting Arrows] applies burning effects to the units around the target if the target is burned. The effect could stack with Fire Arrow Shower"
+  },
+  {
+    "Id": 4016,
+    "Text": "[Heavy Arrow] CD－%s sec"
+  },
+  {
+    "Id": 4017,
+    "Text": "Targets hit by [Claymore Trap] suffers %s%% damage dealt by the next fire attack."
+  },
+  {
+    "Id": 4018,
+    "Text": "Damage traps placed when [Detonator] is on won’t be triggered by monsters. To trigger those traps, the caster must tap on them or wait till Detonator ends."
+  },
+  {
+    "Id": 4019,
+    "Text": "When [Detonator] is trapped, traps deal ＋%s%% damage"
+  },
+  {
+    "Id": 4020,
+    "Text": "Targets hit by [Frost Trap] suffers %s%% damage dealt by the next water attack."
+  },
+  {
+    "Id": 4021,
+    "Text": "[Land Mine] deals ＋%s%% more damage to rooted targets"
+  },
+  {
+    "Id": 4022,
+    "Text": "For each level of [Trap Research], Trap damage ＋%s%%"
+  },
+  {
+    "Id": 4023,
+    "Text": "[Claymore Trap] and [Frost Trap] deals ＋%s%% more damage to sleep targets"
+  },
+  {
+    "Id": 4024,
+    "Text": "[Blitz Beat], [Falcon Assault] and [Hunting Assault] deals ＋%s%% more damage to stunned targets"
+  },
+  {
+    "Id": 4025,
+    "Text": "[Blitz Beat] has a %s%% chance to expel 1 random buff for the target"
+  },
+  {
+    "Id": 4026,
+    "Text": "Get the skill [Imprisoned Arrow]: Casts for 3 sec and shows the magic arrow to root the target so it cannot move, attack and become immune to magic. It also takes ＋%s%% Dmg for 5 sec."
+  },
+  {
+    "Id": 4027,
+    "Text": "Skill Dmg of [Multi Firing] ＋%s%%"
+  },
+  {
+    "Id": 4028,
+    "Text": "Cast Delay of [Multi Firing]－%s sec"
+  },
+  {
+    "Id": 4029,
+    "Text": "[Sharp Shooting] Skill EnCast Time－%s, Healing Effect ＋%s%% but Skill CD ＋%s sec"
+  },
+  {
+    "Id": 4301,
+    "Text": "使【风之步】同时减少远程物理伤害%s%%"
+  },
+  {
+    "Id": 4302,
+    "Text": "使【多重扫射】冷却-%s秒"
+  },
+  {
+    "Id": 4303,
+    "Text": "普通攻击附加%s%%伤害"
+  },
+  {
+    "Id": 4304,
+    "Text": "增加定身、冰冻和眩晕抵抗%s%%"
+  },
+  {
+    "Id": 4401,
+    "Text": "[Warg Rider] increases Warg Move Spd by an extra %s%%"
+  },
+  {
+    "Id": 4402,
+    "Text": "[Warg Strike] damage ＋%s%%"
+  },
+  {
+    "Id": 4403,
+    "Text": "Each level of [Falcon Assault] and [Hunting Assault] increases [Warg Strike] damage by %s%%"
+  },
+  {
+    "Id": 4404,
+    "Text": "[Exceed Break] increases DEX and INT by an extra %s"
+  },
+  {
+    "Id": 4405,
+    "Text": "[Deadly Snipe] damage ＋ %s%%"
+  },
+  {
+    "Id": 4406,
+    "Text": "[Deadly Snipe] final Critical chance ＋ %s"
+  },
+  {
+    "Id": 4407,
+    "Text": "[Arrow Storm] slows enemies by %s%% for 3s"
+  },
+  {
+    "Id": 4408,
+    "Text": "[Electric Shock] damage ＋ %s%%"
+  },
+  {
+    "Id": 4409,
+    "Text": "[Nature’s Protection] provides ＋ %s%% extra Normal Atk Reduction"
+  },
+  {
+    "Id": 5000,
+    "Text": "Healing Done by [Heal] ＋%s%%"
+  },
+  {
+    "Id": 5001,
+    "Text": "[Heal] applies Lasting Healing status on the target (Valid to self), so it gains HP equal to 10%% healing done every 3 sec. Lasts %s sec."
+  },
+  {
+    "Id": 5002,
+    "Text": "Healing Done by Lasting Healing ＋%s%%"
+  },
+  {
+    "Id": 5003,
+    "Text": "When targets suffer [Kyrie Eleison], Their moving speed ＋%s%% within 3 seconds; damage can be blocked by [Kyrie Eleison] ＋%s"
+  },
+  {
+    "Id": 5004,
+    "Text": "[Sanctuary] effective healing attempts-50%%, but healing amount ＋%s%%"
+  },
+  {
+    "Id": 5005,
+    "Text": "[The Blunt Mastery] provides ＋%s%% Atk"
+  },
+  {
+    "Id": 5006,
+    "Text": "Acolyte, Priest and High Priest's auto attack bonus converted from strength increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 5007,
+    "Text": "If [Turn Undead] failed to kill undead monsters, the caster recovers HP by %s%% damage dealt. If the target is not undead, Recovery amount-1/2"
+  },
+  {
+    "Id": 5008,
+    "Text": "[Impositio Manus] provides ＋%s%% Atk"
+  },
+  {
+    "Id": 5009,
+    "Text": "Holy Booster has a ＋%s%% chance to stun the target. [Holy Light Strike] CD ＋%s sec"
+  },
+  {
+    "Id": 5010,
+    "Text": "Skill level of [Double Healing] ＋1; after release, the priest receives \"Double Healing\" for 10 seconds, the next healing spell will cure one more partner with the lowest HP, the recovery value equals to half of this time"
+  },
+  {
+    "Id": 5011,
+    "Text": "Duration of [Double Healing] ＋%s seconds, Recovery value of [Double Healing] ＋%s%%"
+  },
+  {
+    "Id": 5012,
+    "Text": "Cast Delay of [Magnificat]－%s%%"
+  },
+  {
+    "Id": 5013,
+    "Text": "[Faith Pray] Skill Level ＋%s. Prays for 1 ally so he/she won’t die in 5 secs even a fatal damage is applied. Each point increases duration by ＋%s sec (Blue Gemstone*1)(During the skill, Priest cannot move, Attack or do anything else)"
+  },
+  {
+    "Id": 5014,
+    "Text": "During Faith Pray, Priest takes －%s%% damage"
+  },
+  {
+    "Id": 5015,
+    "Text": "Get [Warp Portal] Skill ＋%s. Ener /memo in the chat box to mark the current coordinate. When the skill is casted, the whole Party will be teleported to the coordinate."
+  },
+  {
+    "Id": 5016,
+    "Text": "Acolyte, Priest and High Priest's M.Atk bonus increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 5017,
+    "Text": "auto attacks have a %s%% chance to silence the target for %s sec. The chance halves in PVP."
+  },
+  {
+    "Id": 5018,
+    "Text": "auto attacks have a %s%% chance to cast same-level [Gloria] to self"
+  },
+  {
+    "Id": 5019,
+    "Text": "[Repentance] Skill Level ＋%s. Deals Atk*150%% holy M.Dmg to the target and give it a 6sec repentance status, during which the caster could deal ＋30%% damage to it with auto attacks"
+  },
+  {
+    "Id": 5020,
+    "Text": "Units in repentance status lose HP by M.Dmg*%s%% every 2 secs"
+  },
+  {
+    "Id": 5021,
+    "Text": "Cast Delay of [Magnus Exorcismus Attack] －%s seconds, Deal %s%%  skill damage to all races"
+  },
+  {
+    "Id": 5022,
+    "Text": "[Group Resurrection] Skill Level ＋%s. Revives all dead allies in its range, granting them 30%% HP. Grants 50%% HP at Lv.2. (Blue Gemstone*2)"
+  },
+  {
+    "Id": 5023,
+    "Text": "[Suffragium] Duration ＋%s sec"
+  },
+  {
+    "Id": 5024,
+    "Text": "[Ruwach] Duration ＋%s sec"
+  },
+  {
+    "Id": 5025,
+    "Text": "Acolyte Def ＋%s%%"
+  },
+  {
+    "Id": 5026,
+    "Text": "Skill level of [Double Healing] ＋1; after release, the priest receives \"Double Healing\" for 10 seconds, the next healing spell will cure one more partner with the lowest HP, the recovery value equals to half of this time"
+  },
+  {
+    "Id": 5027,
+    "Text": "Acolyte M.Def ＋%s%%"
+  },
+  {
+    "Id": 5028,
+    "Text": "Cast Delay of [Suffragium]－%s%%"
+  },
+  {
+    "Id": 5029,
+    "Text": "[Clearance] expels %s random buff if the target is enemy"
+  },
+  {
+    "Id": 5030,
+    "Text": "Change the effect of [Lex Divina] into extending Cast Time of all enemy's skills; For each point is built, Cast Time ＋%s%%, CT Fixed ＋%s seconds, This effect lasts 10 seconds"
+  },
+  {
+    "Id": 5031,
+    "Text": "[Decrease Agility] attacks the target and %s enemy units nearby"
+  },
+  {
+    "Id": 5032,
+    "Text": "[Suffragium] reduces CD of all skills by －%s%% for ([Suffragium]Skill Lv * 10) sec"
+  },
+  {
+    "Id": 5033,
+    "Text": "Targets attacked by [Lex Divina] lose %s%% Max SP"
+  },
+  {
+    "Id": 5034,
+    "Text": "[Group Resurrection] Skill Level ＋%s. Revives all dead allies in its range, granting them 30%% HP. Grants 50%% HP at Lv.2. (Blue Gemstone*2)"
+  },
+  {
+    "Id": 5035,
+    "Text": "Get the skill [Two-way Teleport]. Places 1 two-way portal that is visible to allies only in a range (9 screens). The portal could be destroyed by AOE skills (Blue Gemstone*1). Each point increases portal duration by ＋%s sec, HP by ＋%s. Can have up to 2 portals at the same time"
+  },
+  {
+    "Id": 5036,
+    "Text": "[Faith Pray] Skill Level ＋%s. Prays for 1 ally so he/she won’t die in %s sec even a fatal damage is applied. Each point increases duration by ＋%s sec (Blue Gemstone*1)"
+  },
+  {
+    "Id": 5037,
+    "Text": "auto attacks have a %s%% chance to cast same-level [Impositio Manus] to self"
+  },
+  {
+    "Id": 5038,
+    "Text": "[Repentance] Skill Level ＋%s. Deals Atk*150%% holy M.Dmg to the target and give it a 6sec repentance status, during which the caster could deal ＋30%% damage to it with auto attacks. Each point increases Repentance Atk bonus by ＋%s%% and its duration by ＋%s sec"
+  },
+  {
+    "Id": 5039,
+    "Text": "Skill multiplier of [Magnus Exorcismus Attack] ＋%s%%"
+  },
+  {
+    "Id": 5040,
+    "Text": "In case of attacking devil monsters, Skill multiplier ＋%s%%"
+  },
+  {
+    "Id": 5301,
+    "Text": "【天使之击】每级增加攻速%s%%"
+  },
+  {
+    "Id": 5302,
+    "Text": "使【光耀之堂】治疗效果增加%s%%"
+  },
+  {
+    "Id": 5303,
+    "Text": "使受到【洒水祈福】同时能够提升目标%s%%的圣属性攻击"
+  },
+  {
+    "Id": 5304,
+    "Text": "【圣母之祈福】每级提升%s%%魔伤和物伤减免"
+  },
+  {
+    "Id": 5305,
+    "Text": "【幸运之颂歌】持续时间＋%s秒"
+  },
+  {
+    "Id": 5401,
+    "Text": "[Deny] duration ＋%s sec"
+  },
+  {
+    "Id": 5402,
+    "Text": "[Slow Poison] duration ＋ %s sec. Reduces poison damage taken by an extra %s%%"
+  },
+  {
+    "Id": 5403,
+    "Text": "[Coluceo Heal] gains extra healing equal to %s%% of target’s lost HP"
+  },
+  {
+    "Id": 5404,
+    "Text": "[Oratio] reduces enemy's MDef by an extra %s%%"
+  },
+  {
+    "Id": 5405,
+    "Text": "[Adoramus] damage ＋ %s%%"
+  },
+  {
+    "Id": 5406,
+    "Text": "[Adoramus] reduces enemy’s LUK and DEX by an extra %s"
+  },
+  {
+    "Id": 5407,
+    "Text": "[Expiatio] Pen. ＋ %s%%"
+  },
+  {
+    "Id": 5408,
+    "Text": "[Duple Light] damage ＋ %s%%"
+  },
+  {
+    "Id": 5409,
+    "Text": "[Duple Light] increases Archbishop’s Equipment ASPD by an extra %s%%"
+  },
+  {
+    "Id": 6000,
+    "Text": "[Change Cart] Slot Cap ＋%s, Move Spd－%s%%"
+  },
+  {
+    "Id": 6001,
+    "Text": "Each slot of the cart increases ＋%s%%[Cart Revolution] damage and ＋%s%% [Cart Revolution] SP Cost"
+  },
+  {
+    "Id": 6002,
+    "Text": "When equipped with cart, Move Spd ＋%s%%"
+  },
+  {
+    "Id": 6003,
+    "Text": "Deals ＋%s%% more damage to stunned targets"
+  },
+  {
+    "Id": 6004,
+    "Text": "[Skin Tempering] deals ＋%s%% damage to fire monsters each level"
+  },
+  {
+    "Id": 6005,
+    "Text": "Each slot of Cart increases damage of [Cart Attack] by ＋%s%% but SP Cost by ＋%s%%"
+  },
+  {
+    "Id": 6006,
+    "Text": "Each Dex ＋%s, Atk ＋%s"
+  },
+  {
+    "Id": 6007,
+    "Text": "[Cart Attack] has a %s%% chance to remove weapons of nearby units (not valid yet). If those units are monster, Atk－%s%%"
+  },
+  {
+    "Id": 6008,
+    "Text": "When equipped with axe, Atk ＋%s"
+  },
+  {
+    "Id": 6009,
+    "Text": "Each ＋%s Luck, Atk ＋%s"
+  },
+  {
+    "Id": 6010,
+    "Text": "[Axe Refining] provides Atk ＋%s%%"
+  },
+  {
+    "Id": 6011,
+    "Text": "[Mammonite] Dmg ＋%s%%, Skill Cost ＋%s%%"
+  },
+  {
+    "Id": 6012,
+    "Text": "Get the skill [Whirl Axe]: Absorbs nearby units to self, dealing ＋%s%% Dmg and reducing －%s%% Move Spd for %s sec"
+  },
+  {
+    "Id": 6013,
+    "Text": "[Whirl Axe] Dmg ＋%s%%"
+  },
+  {
+    "Id": 6014,
+    "Text": "When launching auto attacks, auto attack increases by %s, quality attack brought by Strength increases by ＋%s%%"
+  },
+  {
+    "Id": 6015,
+    "Text": "Get the skill [Split Axe]: auto attacks have a %s%% chance to deal ＋%s%%  splash damage to adjacent targets."
+  },
+  {
+    "Id": 6016,
+    "Text": "Splash Damage of [Split Axe] ＋%s%%"
+  },
+  {
+    "Id": 6301,
+    "Text": "使用【速度激发】同时能够使自身和队友%s%%移速"
+  },
+  {
+    "Id": 6302,
+    "Text": "使【大声呐喊】同时提升队友和自身%s%%物理、魔法防御"
+  },
+  {
+    "Id": 6303,
+    "Text": "使【武器修理】使用之后，目标%s秒内免疫武器破坏效果"
+  },
+  {
+    "Id": 6401,
+    "Text": "＋%s%% wind, fire, water and earth reduction while [Madogear License] is active"
+  },
+  {
+    "Id": 6402,
+    "Text": "[Repair] healing effect ＋ %s%%"
+  },
+  {
+    "Id": 6403,
+    "Text": "[Hover] duration ＋%s sec"
+  },
+  {
+    "Id": 6404,
+    "Text": "[Suicidal Destruction] damage ＋ %s%%"
+  },
+  {
+    "Id": 6405,
+    "Text": "Gains invulnerability for %s sec after using [Suicidal Destruction]"
+  },
+  {
+    "Id": 6406,
+    "Text": "Enemy SP lost caused by [Magnetic Field] ＋ %s"
+  },
+  {
+    "Id": 6407,
+    "Text": "[Arm Cannon] damage ＋ %s%%"
+  },
+  {
+    "Id": 6408,
+    "Text": "[Arm Cannon] reduces enemy Def by %s%% for 5 sec"
+  },
+  {
+    "Id": 6409,
+    "Text": "[Knuckle Boost] damage ＋ %s%%"
+  },
+  {
+    "Id": 7001,
+    "Text": "For Crusader auto attacks, Atk increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 7002,
+    "Text": "[Holy Cross] Dmg ＋%s%%"
+  },
+  {
+    "Id": 7003,
+    "Text": "[Shield Charge] Stun Rate ＋%s%%"
+  },
+  {
+    "Id": 7004,
+    "Text": "[Shield Chain] Single Base Dmg ＋%s%%"
+  },
+  {
+    "Id": 7005,
+    "Text": "[Shield Chain] Range ＋%sm"
+  },
+  {
+    "Id": 7006,
+    "Text": "[Pressure] Skill Level ＋1. Deals (Skill Level*1000 ＋500) fixed Dmg and reduces (MaxSp* (Skill Level*0.5%% ＋0.5%%) ＋ (Skill Level*5 ＋15) ) SP"
+  },
+  {
+    "Id": 7007,
+    "Text": "Atk Boost of [Retribution] ＋%s%%"
+  },
+  {
+    "Id": 7008,
+    "Text": "[Grand Cross] deals %s%% less punishment damage to the caster"
+  },
+  {
+    "Id": 7009,
+    "Text": "[Grand Cross] Fixed Cast Time－%s sec"
+  },
+  {
+    "Id": 7010,
+    "Text": "[Shield Boomerang] Dmg ＋%s%%"
+  },
+  {
+    "Id": 7011,
+    "Text": "When the cast has <%s%% HP remaining, Healing received ＋200%%"
+  },
+  {
+    "Id": 7012,
+    "Text": "Crusader takes－%s%% Shared Dmg from [Devotion]"
+  },
+  {
+    "Id": 7013,
+    "Text": "Hit of [Shield Charge] ＋%s%%"
+  },
+  {
+    "Id": 7014,
+    "Text": "Damage of[Grand Cross] ＋%s%%"
+  },
+  {
+    "Id": 7301,
+    "Text": "使【舍命攻击】的攻击次数＋%s"
+  },
+  {
+    "Id": 7302,
+    "Text": "使【回旋盾击】冷却时间-%s秒"
+  },
+  {
+    "Id": 7303,
+    "Text": "使【光之盾】的移动速度惩罚减少%s%%"
+  },
+  {
+    "Id": 7304,
+    "Text": "【恩赐】每级提供%sSp上限"
+  },
+  {
+    "Id": 7305,
+    "Text": "使【舍命庇护】同时提升队友%s%%物理防御和魔法防御"
+  },
+  {
+    "Id": 7401,
+    "Text": "[Earth Drive] cooldown － %s sec"
+  },
+  {
+    "Id": 7402,
+    "Text": "＋ %s%% extra Move Spd while [Command of Charge] is active"
+  },
+  {
+    "Id": 7403,
+    "Text": "[Overbrand] damage ＋ %s%%"
+  },
+  {
+    "Id": 7404,
+    "Text": "Atk and M.Atk brought by [Inspiration] ＋ %s"
+  },
+  {
+    "Id": 7405,
+    "Text": "[Piety] duration ＋%s sec"
+  },
+  {
+    "Id": 7406,
+    "Text": "Crit. Res brought by [Fearless] ＋ %s"
+  },
+  {
+    "Id": 7407,
+    "Text": "[Battle Chant] healing over time  ＋ %s%%"
+  },
+  {
+    "Id": 7408,
+    "Text": "Holy Dmg of targets affected by [Piety] takes ＋ %s%%"
+  },
+  {
+    "Id": 8201,
+    "Text": "贤者智力对普攻攻击力的加成提高%s点"
+  },
+  {
+    "Id": 8202,
+    "Text": "【地震术】的伤害＋%s%%"
+  },
+  {
+    "Id": 8203,
+    "Text": "元素领域会额外增加%s%%对应元素属性的伤害减免"
+  },
+  {
+    "Id": 8204,
+    "Text": "在【自由施法】过程中，移动速度额外提高%s%%"
+  },
+  {
+    "Id": 8205,
+    "Text": "普通攻击触发【自动念咒】效果的概率＋%s%%"
+  },
+  {
+    "Id": 8206,
+    "Text": "使用【地震术】有%s%%概率使敌人眩晕2秒"
+  },
+  {
+    "Id": 8207,
+    "Text": "当敌人进入火元素领域范围时，有%s%%概率会陷入灼烧状态"
+  },
+  {
+    "Id": 8208,
+    "Text": "当敌人进入水元素领域范围时，有%s%%概率会陷入冰冻状态"
+  },
+  {
+    "Id": 8209,
+    "Text": "在风元素领域内，移动速度＋%s%%，攻击速度＋%s%%"
+  },
+  {
+    "Id": 8210,
+    "Text": "受到【念咒拆除】影响的敌人，使用技能Sp消耗＋%s%%"
+  },
+  {
+    "Id": 8211,
+    "Text": "【双倍投掷】触发的概率＋%s%%"
+  },
+  {
+    "Id": 8212,
+    "Text": "获得【薄雾墙】技能等级＋1：在指定区域创造雾墙，雾墙内的敌人会陷入黑暗状态，并降低命中，雾墙内的友方有概率闪避远程锁定单体物理伤害"
+  },
+  {
+    "Id": 8213,
+    "Text": "获得【薄雾墙】技能等级＋1：在指定区域创造雾墙，雾墙内的敌人会陷入黑暗状态，并降低命中，雾墙内的友方有概率闪避远程锁定单体物理伤害"
+  },
+  {
+    "Id": 8214,
+    "Text": "获得【薄雾墙】技能等级＋1：在指定区域创造雾墙，雾墙内的敌人会陷入黑暗状态，并降低命中，雾墙内的友方有概率闪避远程锁定单体物理伤害"
+  },
+  {
+    "Id": 8215,
+    "Text": "获得【薄雾墙】技能等级＋1：在指定区域创造雾墙，雾墙内的敌人会陷入黑暗状态，并降低命中，雾墙内的友方有概率闪避远程锁定单体物理伤害"
+  },
+  {
+    "Id": 8216,
+    "Text": "普通攻击时有%s%%概率对敌人自动施放【易燃之网】"
+  },
+  {
+    "Id": 8217,
+    "Text": "被【易燃之网】定住的敌人，受到火属性伤害额外＋%s%%"
+  },
+  {
+    "Id": 8218,
+    "Text": "相同HP转换为SP的数值提高%s%%"
+  },
+  {
+    "Id": 8219,
+    "Text": "将敌人的SP变为0的概率提高%s%%"
+  },
+  {
+    "Id": 8220,
+    "Text": "【精神耗弱术】的伤害＋%s%%"
+  },
+  {
+    "Id": 8221,
+    "Text": "【精神耗弱术】技能冷却－%s秒"
+  },
+  {
+    "Id": 8222,
+    "Text": "【魔法惩罚】闪避的概率＋%s%%"
+  },
+  {
+    "Id": 8223,
+    "Text": "【心神互换】技能冷却－%s秒"
+  },
+  {
+    "Id": 8224,
+    "Text": "贤者在学习锐化武器之后，普攻攻击时暴击伤害额外提高%s%%"
+  },
+  {
+    "Id": 8225,
+    "Text": "贤者召唤的元素精灵所有的伤害＋%s%%"
+  },
+  {
+    "Id": 8226,
+    "Text": "在使用【魔力之拳】的时候，贤者敏捷＋%s"
+  },
+  {
+    "Id": 8227,
+    "Text": "【闪电之枪】技能延迟－%s秒"
+  },
+  {
+    "Id": 8228,
+    "Text": "【闪电之枪】中的魔法伤害＋%s%%"
+  },
+  {
+    "Id": 8229,
+    "Text": "【闪电之枪】对冰冻状态下的敌人额外造成%s%%的伤害"
+  },
+  {
+    "Id": 8230,
+    "Text": "【钻石星尘】技能延迟－%s秒"
+  },
+  {
+    "Id": 8231,
+    "Text": "【钻石星尘】的伤害＋%s%%"
+  },
+  {
+    "Id": 8232,
+    "Text": "受到【精神冲击】影响的敌人有%s%%概率眩晕2秒"
+  },
+  {
+    "Id": 8233,
+    "Text": "【精神冲击】的伤害＋%s%%"
+  },
+  {
+    "Id": 8234,
+    "Text": "获得【黑洞】技能等级＋1：在地面上生成真空黑洞，将3米范围内的最多1个目标全部吸入"
+  },
+  {
+    "Id": 8235,
+    "Text": "获得【黑洞】技能等级＋1：在地面上生成真空黑洞，将3米范围内的最多1个目标全部吸入"
+  },
+  {
+    "Id": 8236,
+    "Text": "获得【黑洞】技能等级＋1：在地面上生成真空黑洞，将3米范围内的最多1个目标全部吸入"
+  },
+  {
+    "Id": 8237,
+    "Text": "获得【黑洞】技能等级＋1：在地面上生成真空黑洞，将3米范围内的最多1个目标全部吸入"
+  },
+  {
+    "Id": 8238,
+    "Text": "获得【黑洞】技能等级＋1：在地面上生成真空黑洞，将3米范围内的最多1个目标全部吸入"
+  },
+  {
+    "Id": 8301,
+    "Text": "吟唱阶段减少30%%伤害，固定吟唱时间＋0.5秒"
+  },
+  {
+    "Id": 8302,
+    "Text": "受到【易燃之网】效果的目标减少%s%%魔法防御"
+  },
+  {
+    "Id": 8303,
+    "Text": "每当敌人在【地元素领域】中累积站立超过3秒，会进入石化状态%s秒，每养成一点定身时间增加1秒"
+  },
+  {
+    "Id": 8304,
+    "Text": "【HP转换】耗损的自身HP-%s%%，获得的sp量不会减少"
+  },
+  {
+    "Id": 9001,
+    "Text": "Skill level of [Double Armor Removal] ＋1; caster has a %s%% chance to unload 2 parts when releasing [Strip Armor]"
+  },
+  {
+    "Id": 9002,
+    "Text": "Skill level of [Rouge's Paradise] ＋1; after use, the caster will sit down, Teammates in a %s-meter range will avoid being auto-target by all monsters except the BOSS; the effect lasts 300 seconds."
+  },
+  {
+    "Id": 9003,
+    "Text": "Receive [Talkie Box] skill level ＋1. After use, expose all enemy traps within a 7-meter range to your allies. Using this skill at Lv.2 in a hiding state will not remove the hiding state."
+  },
+  {
+    "Id": 9004,
+    "Text": "Skill level of [Remove Trap] ＋1; destroy traps in a specified range, at most %s traps can be removed a time"
+  },
+  {
+    "Id": 9005,
+    "Text": "Damage of [Triangle Shot] ＋%s%%"
+  },
+  {
+    "Id": 9006,
+    "Text": "Damage of [Raid] ＋%s%%"
+  },
+  {
+    "Id": 9007,
+    "Text": "Target's damage bearing after attacked by [Raid] ＋%s%%"
+  },
+  {
+    "Id": 9008,
+    "Text": "Damage of [Back Stab] ＋%s%%"
+  },
+  {
+    "Id": 9009,
+    "Text": "Cast Delay of [Back Stab] －%s seconds"
+  },
+  {
+    "Id": 9010,
+    "Text": "Damage of [Intimidate] ＋%s%%"
+  },
+  {
+    "Id": 9011,
+    "Text": "Within 5 seconds, the damage to target of [Intimidate] ＋%s%%"
+  },
+  {
+    "Id": 9012,
+    "Text": "Damage of [The Ambush] in hiding states ＋%s%%"
+  },
+  {
+    "Id": 9013,
+    "Text": "After release of [Close Confine], Caster receives a Dmg shield that can blocks damage %s time, the upper limit equals to %s%% of Max HP; this effect lasts 10 seconds"
+  },
+  {
+    "Id": 9014,
+    "Text": "Skill cooldown of [Vanished] －%s%%"
+  },
+  {
+    "Id": 9015,
+    "Text": "Cast Delay of [Vanished] －%s seconds"
+  },
+  {
+    "Id": 9016,
+    "Text": "Enhanced hiding time after hiding state removed ＋%s seconds"
+  },
+  {
+    "Id": 9017,
+    "Text": "Damage of [Double Attack] ＋%s%%"
+  },
+  {
+    "Id": 9018,
+    "Text": "When daggers are equipped, Atk ＋%s"
+  },
+  {
+    "Id": 9019,
+    "Text": "When bows are equipped, Atk ＋%s"
+  },
+  {
+    "Id": 9020,
+    "Text": "Damage to targets of Slow Atk and Close Confine ＋%s%%"
+  },
+  {
+    "Id": 9021,
+    "Text": "Deals ＋%s%% Dmg to stunned targets"
+  },
+  {
+    "Id": 9022,
+    "Text": "Ranged Dmg ＋%s%%"
+  },
+  {
+    "Id": 9301,
+    "Text": "使【潜击】冷却时间-%s秒，消耗Sp＋%s%%。"
+  },
+  {
+    "Id": 9302,
+    "Text": "使受到【致残袭击】的目标移速-%s%%，持续3秒"
+  },
+  {
+    "Id": 9303,
+    "Text": "使受到【擒拿】的目标每秒损失%s%%最大生命值"
+  },
+  {
+    "Id": 9304,
+    "Text": "使【卸除】盾牌施法距离＋%sm"
+  },
+  {
+    "Id": 9401,
+    "Text": "- %s%% Move Spd of targets within [Blood Thirst]’s area of effect. This effect grows more powerful as the target’s HP percentage drops"
+  },
+  {
+    "Id": 9402,
+    "Text": "Duration of target trapped in [Manhole]  ＋%s sec"
+  },
+  {
+    "Id": 9403,
+    "Text": "[Manhole] cooldown － %s sec"
+  },
+  {
+    "Id": 9404,
+    "Text": "[Magic Trap] SP lost ＋ %s"
+  },
+  {
+    "Id": 9405,
+    "Text": "[Magic Trap] damage ＋ %s%%"
+  },
+  {
+    "Id": 9406,
+    "Text": "Move Spd ＋ %s%%, Dmg Reduc. and Magic Reduc. ＋ %s%% for 4s after using a skill"
+  },
+  {
+    "Id": 9407,
+    "Text": "- %s%% Def of target affected by [Threaten]"
+  },
+  {
+    "Id": 9408,
+    "Text": "[Mark of Death] effect ＋ %s%%"
+  },
+  {
+    "Id": 9409,
+    "Text": "Target affected by [Mark of Death] cannot go invisible for %s sec"
+  },
+  {
+    "Id": 10201,
+    "Text": "获得【不和谐音】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 10202,
+    "Text": "获得【不和谐音】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 10203,
+    "Text": "获得【不和谐音】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 10204,
+    "Text": "获得【不和谐音】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 10205,
+    "Text": "获得【不和谐音】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 10206,
+    "Text": "【箭雨】的伤害＋%s%%"
+  },
+  {
+    "Id": 10207,
+    "Text": "获得【无限吟唱】技能等级＋1：合奏技能。使5米范围内的队友使用技能时不会被打断，所有技能冷却时间减少"
+  },
+  {
+    "Id": 10208,
+    "Text": "获得【无限吟唱】技能等级＋1：合奏技能。使5米范围内的队友使用技能时不会被打断，所有技能冷却时间减少"
+  },
+  {
+    "Id": 10209,
+    "Text": "获得【无限吟唱】技能等级＋1：合奏技能。使5米范围内的队友使用技能时不会被打断，所有技能冷却时间减少"
+  },
+  {
+    "Id": 10210,
+    "Text": "获得【无限吟唱】技能等级＋1：合奏技能。使5米范围内的队友使用技能时不会被打断，所有技能冷却时间减少"
+  },
+  {
+    "Id": 10211,
+    "Text": "获得【无限吟唱】技能等级＋1：合奏技能。使5米范围内的队友使用技能时不会被打断，所有技能冷却时间减少"
+  },
+  {
+    "Id": 10212,
+    "Text": "在演奏期间，提高自身%s点的Sp恢复"
+  },
+  {
+    "Id": 10213,
+    "Text": "在演奏期间，提高自身%s%%的物伤减免和魔法减免"
+  },
+  {
+    "Id": 10214,
+    "Text": "每1点智力转换%s点物理攻击"
+  },
+  {
+    "Id": 10215,
+    "Text": "【乐器攻击】的伤害＋%s%%"
+  },
+  {
+    "Id": 10216,
+    "Text": "在演奏期间，【乐器攻击】的Sp消耗-%s%%"
+  },
+  {
+    "Id": 10217,
+    "Text": "【刺客的黄昏】额外提供%s%%的暴击伤害"
+  },
+  {
+    "Id": 10218,
+    "Text": "【永远的混沌】额外使敌人降低%s%%的魔法防御（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10219,
+    "Text": "【金先生是有钱人】获取Job经验额外提高%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10220,
+    "Text": "使用和演奏【战鼓震天】的Sp消耗-%s%%"
+  },
+  {
+    "Id": 10221,
+    "Text": "获得【安息摇篮曲】技能等级＋1：使自身周围5米的队友强制陷入【昏睡】状态，在3秒内无法被攻击，3秒之后受到攻击会解除【昏睡】，【昏睡】最多持续10秒，每秒恢复Hp和Sp"
+  },
+  {
+    "Id": 10222,
+    "Text": "获得【安息摇篮曲】技能等级＋1：使自身周围5米的队友强制陷入【昏睡】状态，在3秒内无法被攻击，3秒之后受到攻击会解除【昏睡】，【昏睡】最多持续10秒，每秒恢复Hp和Sp"
+  },
+  {
+    "Id": 10223,
+    "Text": "获得【安息摇篮曲】技能等级＋1：使自身周围5米的队友强制陷入【昏睡】状态，在3秒内无法被攻击，3秒之后受到攻击会解除【昏睡】，【昏睡】最多持续10秒，每秒恢复Hp和Sp"
+  },
+  {
+    "Id": 10224,
+    "Text": "获得【安息摇篮曲】技能等级＋1：使自身周围5米的队友强制陷入【昏睡】状态，在3秒内无法被攻击，3秒之后受到攻击会解除【昏睡】，【昏睡】最多持续10秒，每秒恢复Hp和Sp"
+  },
+  {
+    "Id": 10225,
+    "Text": "获得【安息摇篮曲】技能等级＋1：使自身周围5米的队友强制陷入【昏睡】状态，在3秒内无法被攻击，3秒之后受到攻击会解除【昏睡】，【昏睡】最多持续10秒，每秒恢复Hp和Sp"
+  },
+  {
+    "Id": 10226,
+    "Text": "【奥义箭乱舞】的伤害＋%s%%"
+  },
+  {
+    "Id": 10227,
+    "Text": "【奥义箭乱舞】在计算物理攻击时，每剩余10点Sp，物理攻击＋%s"
+  },
+  {
+    "Id": 10228,
+    "Text": "【尼伯龙根的指环】物理穿刺额外提高%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10229,
+    "Text": "【尼伯龙根的指环】魔法穿刺额外提高%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10230,
+    "Text": "【傀儡师的把戏】使用后，施法者获得可抵挡%s次的物理伤害护盾，抵挡上限为自身%s%%的最大生命，持续30秒"
+  },
+  {
+    "Id": 10231,
+    "Text": "【傀儡师的把戏】额外转移%s点物理攻击和魔法攻击"
+  },
+  {
+    "Id": 10232,
+    "Text": "进入【洛奇的悲鸣】合奏的敌人会降低%s%%的攻击速度（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10233,
+    "Text": "【不死神齐格弗里德】额外增加%s%%魔法防御（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10234,
+    "Text": "【布莱奇之诗】的Sp恢复速度额外＋%s%%"
+  },
+  {
+    "Id": 10235,
+    "Text": "获得【命运的塔罗牌】技能等级＋1：占卜对手的命运，随机给一名敌人造成以下卡片效果：\n★节制：物理攻击、魔法攻击降低，持续10秒；\n★倒吊者：攻击速度、移动速度降低，持续10秒；\n★审判：所有素质点减少，持续20秒；\n★隐者：沉默且无法攻击、持续一段时间\n★死神：失去当前Hp的生命\n★愚者：失去当前Sp的魔法（所有效果对MVP、MINI无效）"
+  },
+  {
+    "Id": 10236,
+    "Text": "获得【命运的塔罗牌】技能等级＋1：占卜对手的命运，随机给一名敌人造成以下卡片效果：\n★节制：物理攻击、魔法攻击降低，持续10秒；\n★倒吊者：攻击速度、移动速度降低，持续10秒；\n★审判：所有素质点减少，持续20秒；\n★隐者：沉默且无法攻击、持续一段时间\n★死神：失去当前Hp的生命\n★愚者：失去当前Sp的魔法（所有效果对MVP、MINI无效）"
+  },
+  {
+    "Id": 10237,
+    "Text": "获得【命运的塔罗牌】技能等级＋1：占卜对手的命运，随机给一名敌人造成以下卡片效果：\n★节制：物理攻击、魔法攻击降低，持续10秒；\n★倒吊者：攻击速度、移动速度降低，持续10秒；\n★审判：所有素质点减少，持续20秒；\n★隐者：沉默且无法攻击、持续一段时间\n★死神：失去当前Hp的生命\n★愚者：失去当前Sp的魔法（所有效果对MVP、MINI无效）"
+  },
+  {
+    "Id": 10238,
+    "Text": "获得【命运的塔罗牌】技能等级＋1：占卜对手的命运，随机给一名敌人造成以下卡片效果：\n★节制：物理攻击、魔法攻击降低，持续10秒；\n★倒吊者：攻击速度、移动速度降低，持续10秒；\n★审判：所有素质点减少，持续20秒；\n★隐者：沉默且无法攻击、持续一段时间\n★死神：失去当前Hp的生命\n★愚者：失去当前Sp的魔法（所有效果对MVP、MINI无效）"
+  },
+  {
+    "Id": 10239,
+    "Text": "获得【命运的塔罗牌】技能等级＋1：占卜对手的命运，随机给一名敌人造成以下卡片效果：\n★节制：物理攻击、魔法攻击降低，持续10秒；\n★倒吊者：攻击速度、移动速度降低，持续10秒；\n★审判：所有素质点减少，持续20秒；\n★隐者：沉默且无法攻击、持续一段时间\n★死神：失去当前Hp的生命\n★愚者：失去当前Sp的魔法（所有效果对MVP、MINI无效）"
+  },
+  {
+    "Id": 10240,
+    "Text": "【狂风暴雨】的伤害＋%s%%"
+  },
+  {
+    "Id": 10241,
+    "Text": "【狂风暴雨】的施法距离＋%s米"
+  },
+  {
+    "Id": 10242,
+    "Text": "【振动回响】可布置的数量＋%s"
+  },
+  {
+    "Id": 10243,
+    "Text": "【振动回响】触发后使敌人移动速度每秒-%s%%，持续5秒"
+  },
+  {
+    "Id": 10244,
+    "Text": "【回归之歌】的冷却时间-%s秒"
+  },
+  {
+    "Id": 10245,
+    "Text": "【循环自然之声】的恢复效果提高%s%%"
+  },
+  {
+    "Id": 10246,
+    "Text": "【雷拉德的晨露】额外提高%s点体质（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10247,
+    "Text": "【雷拉德的晨露】的冷却时间-%s秒"
+  },
+  {
+    "Id": 10248,
+    "Text": "【远古夕阳之歌】提供的魔法攻击额外＋%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10249,
+    "Text": "【远古夕阳之歌】提供的物理攻击额外＋%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10250,
+    "Text": "【远古夕阳之歌】的冷却时间-%s秒"
+  },
+  {
+    "Id": 10251,
+    "Text": "【与狼共舞】额外提高%s点智力与灵巧（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10301,
+    "Text": "【战鼓震天】额外提高物伤减免%s%%（诗人舞娘的合奏技能，星盘效果会叠加生效）"
+  },
+  {
+    "Id": 10302,
+    "Text": "使用【吹口哨】时，降低范围内敌方单位命中%s%%"
+  },
+  {
+    "Id": 10303,
+    "Text": "普通攻击附加%s%%伤害"
+  },
+  {
+    "Id": 10304,
+    "Text": "受到【冷笑话】效果的目标额外承受%s%%物理伤害,持续5秒"
+  },
+  {
+    "Id": 11201,
+    "Text": "获得【丑陋之舞】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 11202,
+    "Text": "获得【丑陋之舞】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 11203,
+    "Text": "获得【丑陋之舞】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 11204,
+    "Text": "获得【丑陋之舞】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 11205,
+    "Text": "获得【丑陋之舞】技能等级＋1：独奏技能。演奏期间每秒对4米范围内的所有敌人造成物理伤害"
+  },
+  {
+    "Id": 11206,
+    "Text": "【为你服务】额外提供%s%%的Sp恢复速度"
+  },
+  {
+    "Id": 11207,
+    "Text": "【缠箭投掷】的伤害＋%s%%"
+  },
+  {
+    "Id": 11208,
+    "Text": "在演奏期间，【缠箭投掷】的Sp消耗-%s%%"
+  },
+  {
+    "Id": 11209,
+    "Text": "【女神之吻】额外提供%s点幸运"
+  },
+  {
+    "Id": 11301,
+    "Text": "使用【勿忘我】时，降低范围内敌方单位命中%s%%"
+  },
+  {
+    "Id": 11302,
+    "Text": "受到【惊声尖叫】效果的目标额外承受%s%%魔法伤害,持续5秒"
+  },
+  {
+    "Id": 12001,
+    "Text": "Monk and Champion's auto attack bonus converted from strength increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 12002,
+    "Text": "For launching auto attacks, Atk increases by %s%%, Auto Atk increases by %s"
+  },
+  {
+    "Id": 12003,
+    "Text": "Slow Punishment of [Steel Body]－%s%%"
+  },
+  {
+    "Id": 12004,
+    "Text": "Fixed Cast Time of [Steel Body]－%s sec"
+  },
+  {
+    "Id": 12005,
+    "Text": "SP Cost of [Steel Body]－%s%%"
+  },
+  {
+    "Id": 12006,
+    "Text": "[Iron Fist] provides ＋%s%% Atk"
+  },
+  {
+    "Id": 12007,
+    "Text": "Natural Recovery of [Spirits Recovery] ＋%s%%"
+  },
+  {
+    "Id": 12008,
+    "Text": "auto attacks have a 5%% chance to restore %s SP"
+  },
+  {
+    "Id": 12009,
+    "Text": "Critical Explosion increases ASPD ＋%s%%"
+  },
+  {
+    "Id": 12010,
+    "Text": "Increases multiplier of the [Asura Strike] formula: [Skill Lv.*4 ＋Remaining SP/100] by %s"
+  },
+  {
+    "Id": 12011,
+    "Text": "Damage of [Triple Attack] ＋%s%%"
+  },
+  {
+    "Id": 12012,
+    "Text": "SP Cost of [Investigate]－%s%%"
+  },
+  {
+    "Id": 12013,
+    "Text": "[Finger Offensive] deals ＋(%s%%*M.Atk) M.Dmg"
+  },
+  {
+    "Id": 12014,
+    "Text": "Fixed Cast Time of [Finger Offensive]－%s sec"
+  },
+  {
+    "Id": 12015,
+    "Text": "[Combo Finish] Damage ＋%s%%"
+  },
+  {
+    "Id": 12016,
+    "Text": "[Ki Translation] Skill Level ＋1. Gives up to [8df936]%s[-] spirit bombs to allies each time"
+  },
+  {
+    "Id": 12017,
+    "Text": "Each spirit bomb provides M.Def Penetration ＋%s%%"
+  },
+  {
+    "Id": 12018,
+    "Text": "Deals ＋%s%% Dmg to silenced targets"
+  },
+  {
+    "Id": 12019,
+    "Text": "Deals ＋%s%% Dmg to rooted targets"
+  },
+  {
+    "Id": 12020,
+    "Text": "[Ruwach] Duration ＋%s sec"
+  },
+  {
+    "Id": 12021,
+    "Text": "Deals ＋%s%% Dmg to stunned targets"
+  },
+  {
+    "Id": 12022,
+    "Text": "[Investigate] deals ＋(%s%%*M.Atk) M.Dmg"
+  },
+  {
+    "Id": 12023,
+    "Text": "[Chain Combo] Dmg ＋%s%%"
+  },
+  {
+    "Id": 12024,
+    "Text": "Damage of [Ki Explosion] ＋%s%%"
+  },
+  {
+    "Id": 12025,
+    "Text": "SP Cost of [Chain Crush Combo]－%s%%"
+  },
+  {
+    "Id": 12026,
+    "Text": "Damage of [Tiger Knuckle Fist] ＋%s%%"
+  },
+  {
+    "Id": 12301,
+    "Text": "使【金刚不坏】持续时间变为%s秒"
+  },
+  {
+    "Id": 12302,
+    "Text": "使用【弓身弹影】之后提升自身%s%%移速，持续3秒"
+  },
+  {
+    "Id": 12303,
+    "Text": "每50点物理攻击提供%s点物理防御"
+  },
+  {
+    "Id": 12401,
+    "Text": "SP cost increase caused by [Tiger Cannon] ＋ %s%%"
+  },
+  {
+    "Id": 12402,
+    "Text": "[Tiger Cannon] damage ＋ %s%%"
+  },
+  {
+    "Id": 12403,
+    "Text": "[Hell Gate] gains %s%% extra damage for every 1%% HP lost"
+  },
+  {
+    "Id": 12404,
+    "Text": "[Hell Gate] damage ＋ %s%%"
+  },
+  {
+    "Id": 12405,
+    "Text": "Atk ＋ %s%% when near-death"
+  },
+  {
+    "Id": 12406,
+    "Text": "[Cursed Circle] cooldown － %s sec"
+  },
+  {
+    "Id": 12407,
+    "Text": "Healing effect of [Gentle Touch - Cure] ＋ %s%%"
+  },
+  {
+    "Id": 12408,
+    "Text": "[Gentle Touch - Revitalize] increases Max HP by an extra %s%%"
+  },
+  {
+    "Id": 12409,
+    "Text": "Under [Rasing Dragon] effect Dmg Reduction and M.Dmg Reduction ＋%s%%"
+  },
+  {
+    "Id": 13001,
+    "Text": "Damage of [Cart Revolution] ＋%s%%"
+  },
+  {
+    "Id": 13002,
+    "Text": "Atk multiplier of [Sphere Mine] ＋%s%%"
+  },
+  {
+    "Id": 13003,
+    "Text": "In the presence of Vanilmirth, Alchemy M.Atk ＋%%"
+  },
+  {
+    "Id": 13004,
+    "Text": "When axes are equipped, Atk ＋%s"
+  },
+  {
+    "Id": 13005,
+    "Text": "Homunculus - Lif's [Touch of Heal]  Healing effect ＋%s%%"
+  },
+  {
+    "Id": 13006,
+    "Text": "In the presence of Amistr, Alchemy Atk ＋%s"
+  },
+  {
+    "Id": 13007,
+    "Text": "For alchemist's intelligence ＋1, Atk ＋%s"
+  },
+  {
+    "Id": 13008,
+    "Text": "Damage of [Sphere Parasitism] ＋%s%%"
+  },
+  {
+    "Id": 13009,
+    "Text": "Effective range of Amistr's [Wild Clamor] ＋%s meters"
+  },
+  {
+    "Id": 13010,
+    "Text": "Damage of Vanilmirth's [Caprice] ＋%s%%"
+  },
+  {
+    "Id": 13011,
+    "Text": "When launching auto attacks, the attribute Atk brought by Strength increases by %s%%, auto attack increases by %s"
+  },
+  {
+    "Id": 13012,
+    "Text": "Receive skill [Photosynthesis] ＋1, [Blood Lust] ＋1, [Magic Devour] ＋1"
+  },
+  {
+    "Id": 13013,
+    "Text": "Receive skill [Homunculusn Repair] ＋1, which constantly heals Homunculus, and restore %s%% of Max HP every 0.5 seconds."
+  },
+  {
+    "Id": 13014,
+    "Text": "Damage of [Hell Plant] ＋%s%%"
+  },
+  {
+    "Id": 13015,
+    "Text": "Cast Delay of [Hell Plant]Cast Delay －%s"
+  },
+  {
+    "Id": 13016,
+    "Text": "[Acid Terror] ＋%s%%"
+  },
+  {
+    "Id": 13017,
+    "Text": "In the presence of Homunculus - Lif, damage of [Acid Demonstration] ＋%s%%, damage of [Acid Terror] ＋%s%%, damage of [Improved Acid Demonstration] ＋%s%%"
+  },
+  {
+    "Id": 13018,
+    "Text": "Receive [Chemical Protection Helm] ＋%s, when [Chemical Protection Weapon] is in use, it protects the target's helmet from damage; the effect lasts %s seconds"
+  },
+  {
+    "Id": 13019,
+    "Text": "When blunt is used, M.Atk ＋%s"
+  },
+  {
+    "Id": 13020,
+    "Text": "Cast Delay of [Acid Terror] －%s"
+  },
+  {
+    "Id": 13021,
+    "Text": "Damage of [Improved Acid Demonstration] ＋%s%%"
+  },
+  {
+    "Id": 13022,
+    "Text": "SP cost of [Improved Acid Demonstration] －%s%%"
+  },
+  {
+    "Id": 13023,
+    "Text": "Cast Delay of [Improved Acid Demonstration] －%s"
+  },
+  {
+    "Id": 13024,
+    "Text": "For alchemist's Luk ＋1, M.Atk ＋%s"
+  },
+  {
+    "Id": 13025,
+    "Text": "Homunculus receive 1 skill point"
+  },
+  {
+    "Id": 13026,
+    "Text": "Damage of [Acid Demonstration] ＋%s%%"
+  },
+  {
+    "Id": 13027,
+    "Text": "Receive [Chemical Protection Shield] ＋%s, when [Chemical Protection Weapon] is in use, it protects the target's off-hand weapon from damage; the effect lasts %s seconds"
+  },
+  {
+    "Id": 13028,
+    "Text": "Coexistence of [Hell Plant] ＋1"
+  },
+  {
+    "Id": 13029,
+    "Text": "Vanilmirth's [Caprice] can be specified as [Fire Bolt] in skill instructive page"
+  },
+  {
+    "Id": 13030,
+    "Text": "Vanilmirth's [Caprice] can be specified as [Cold Bolt] in skill instructive page"
+  },
+  {
+    "Id": 13031,
+    "Text": "Vanilmirth's [Caprice] can be specified as [Lightning Bolt] in skill instructive page"
+  },
+  {
+    "Id": 13301,
+    "Text": "使【强酸火烟瓶投掷】计算体质时增加%s点"
+  },
+  {
+    "Id": 13302,
+    "Text": "生命体伊琳诺雅在场时，降低伊琳诺雅周围5米范围内全部敌人%s%%的物理防御。（未实装）"
+  },
+  {
+    "Id": 13303,
+    "Text": "伊琳诺雅获得技能【粉碎骨折】＋1，命令伊琳诺雅快速冲向目标，折断目标的腿骨，使敌方单体定身，使目标闪避归0，持续5秒。（未实装）"
+  },
+  {
+    "Id": 13304,
+    "Text": "伊琳诺雅使用【音速利爪】时有%s%%概率破坏目标铠甲。（未实装）"
+  },
+  {
+    "Id": 13401,
+    "Text": "Damage dealt by Improved Acid Demonstration of [Demonic Fire] ＋ %s%%"
+  },
+  {
+    "Id": 13402,
+    "Text": "[Crazy Weed] cooldown － %s sec"
+  },
+  {
+    "Id": 13403,
+    "Text": "[Genetic Modification] each VIT provides ＋ %s extra Max HP"
+  },
+  {
+    "Id": 13404,
+    "Text": "[Cart Cannon] damage ＋ %s%%"
+  },
+  {
+    "Id": 13405,
+    "Text": "Cast Delay of targets affected by  [Mandragora Howling] ＋ %s sec"
+  },
+  {
+    "Id": 13406,
+    "Text": "[Crazy Weed] damage ＋ %s%%"
+  },
+  {
+    "Id": 13407,
+    "Text": "＋ %s%% extra Move Spd , ＋ %s extra Atk  while [Cart Boost] is active"
+  },
+  {
+    "Id": 13408,
+    "Text": "Homunculus Atk increases by an extra %s%%, resistance to status effects ＋ %s%% while [Life Merge] is active"
+  },
+  {
+    "Id": 13409,
+    "Text": "[Fire Expansion] damage ＋ %s%%"
+  }
+]
