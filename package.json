@@ -44,6 +44,6 @@
     "lz-string": "^1.4.4",
     "nprogress": "^0.2.0",
     "popper.js": "^1.14.3",
-    "underscore": "^1.9.0"
+    "underscore": "^1.12.1"
   }
 }
